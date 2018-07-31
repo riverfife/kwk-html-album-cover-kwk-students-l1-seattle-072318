@@ -63,8 +63,8 @@ p {
 
 span {
   display: inline-block;
-  font-size: 2em;
-  line-height: 2em;
+  font-size: 1em;
+  line-height: 1em;
   letter-spacing: .35em;
   vertical-align: top;
   padding-top: 10px;
